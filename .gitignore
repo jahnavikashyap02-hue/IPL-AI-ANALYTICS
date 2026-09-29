@@ -1,0 +1,7 @@
+# 1. Ignore environment variables containing private API keys
+.env
+
+# 2. Ignore Python virtual environment folders
+.venv/
+env/
+__pycache__/
